@@ -1,0 +1,27 @@
+{
+  "name": "AWMacros",
+  "version": "0.1.0",
+  "summary": "常用宏定义.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/tomwey/AWMacros",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tomwey": "tomwey@163.com"
+  },
+  "source": {
+    "git": "https://github.com/tomwey/AWMacros.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "AWMacros/Classes/**/*",
+  "public_header_files": "Pod/Classes/**/*.h",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ]
+}

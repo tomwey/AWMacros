@@ -1,0 +1,16 @@
+PODS:
+  - AWMacros (0.1.0)
+
+DEPENDENCIES:
+  - AWMacros (from `../`)
+
+EXTERNAL SOURCES:
+  AWMacros:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AWMacros: a5c7bd0ec9e653a1c01e6ea224688f2c81fc247b
+
+PODFILE CHECKSUM: ba67286bc36c32224b6a198386e92539b407a887
+
+COCOAPODS: 1.0.0
