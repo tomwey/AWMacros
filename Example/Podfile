@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AWMacros_Example' do
+  pod 'AWMacros', :path => '../'
+
+  target 'AWMacros_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
